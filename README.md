@@ -15,7 +15,7 @@
  - budgetiranje
  - net worth (assets - liablities)
 
- 
+
 ### Mirovina
  - prvi stup, drugi stup, treci setup
  - problem mirovinskog sustava
@@ -37,4 +37,4 @@
   - dionice (fondovi, etf,...)
   - obveznice
   - krypto valute
-  - p2p lending
+  - [p2p lending](p2pLending.md)
