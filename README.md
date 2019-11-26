@@ -47,4 +47,9 @@
   ## Knjige
    - The Richest Man in Babylon
    - Rich Dad Poor Dad - Robert Kiyosaki
-   -...
+   - The Compound Effect by Darren Hardy
+   - The Million Dollar decision by Robert Rolih
+   - The Intelligent Investor by Benjamin Graham
+   - The Personal MBA: master the art of business by Josh Kaufman
+   - Basic Economics by Thomas Sowell <--- odlican pocetak za ljude ne znaju puno o ekonomiji opcenito
+   
